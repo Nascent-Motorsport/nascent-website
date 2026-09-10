@@ -10,6 +10,10 @@
 !.yarn/releases
 !.yarn/versions
 
+package-lock.json
+bun.lock
+sus-ips.json
+
 # testing
 /coverage
 
@@ -39,3 +43,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+public/gameplay.mp4
+public/downloads/nascent-motorsport.apk
